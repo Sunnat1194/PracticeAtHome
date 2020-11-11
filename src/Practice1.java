@@ -3,6 +3,9 @@ public class Practice1 {
 
 
         System.out.println("Hello World");
+        System.out.println("Good morning");
+        System.out.println("Hello world");
+        System.out.println("Hello Pittsburgh");
     }
 
 }
