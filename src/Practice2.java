@@ -3,5 +3,6 @@ public class Practice2 {
         System.out.println("Hello GitHub");
         System.out.println("I don't know what I should say");
         System.out.println("I like Cadillac then Yukon");
+        System.out.println("I love Spring then Summer");
     }
 }
